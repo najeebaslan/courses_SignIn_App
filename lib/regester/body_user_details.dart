@@ -176,6 +176,7 @@ class _BodyUserDetailsState extends State<BodyUserDetails> {
             child: const Text(
               'تسجيل',
               style: TextStyle(
+                height: 1.2,
                 fontFamily: StyleWidget.fontName,
               ),
             ),

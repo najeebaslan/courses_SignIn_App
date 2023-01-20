@@ -76,16 +76,13 @@ flutter:
   # list giving the asset and other descriptors for the font. For
 
   fonts:
- 
-    - family: Almarai
+    - family: Cairo
       fonts:
-      
-        - asset: fonts/Almarai-Regular.ttf
-        - asset: fonts/Almarai-ExtraBold.ttf
-        - asset: fonts/Almarai-Bold.ttf
-        - asset: fonts/Almarai-Light.ttf
-          # style: italic
-          # weight: 700
-   
- 
+        - asset: fonts/Cairo-Regular.ttf
+        - asset: fonts/Cairo-Bold.ttf
+          style: italic
+          weight: 700
+
+  
+
 

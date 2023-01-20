@@ -23,3 +23,5 @@ class MyApp extends StatelessWidget {
   }
 }
 //6:03
+//git branch -M master
+//git push -u origin mastery

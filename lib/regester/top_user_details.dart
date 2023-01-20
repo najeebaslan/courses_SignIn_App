@@ -58,6 +58,7 @@ class TopUserDetails extends StatelessWidget {
                             'لنبداء التسجيل؟',
                             style: TextStyle(
                                 fontSize: 18,
+                                fontFamily: StyleWidget.fontName,
                                 color: StyleWidget.white,
                                 fontWeight: FontWeight.bold),
                           ),

@@ -31,7 +31,7 @@ class StyleWidget {
   static const Color white70 = Colors.white70;
 
   // static const String fontName = 'Roboto';
-  static const String fontName = 'Almarai';
+  static const String fontName = 'Cairo';
 
   static const TextTheme textTheme = TextTheme(
     headline4: display1,
